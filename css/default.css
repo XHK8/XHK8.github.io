@@ -1,6 +1,5 @@
 .gitbutton{
-  color: var(--color-btn-primary-text);
+  color: #ffffff;
   background-color: #2da44e;
-  border-color: var(--color-btn-primary-border);
-  box-shadow: var(--color-btn-primary-shadow),var(--color-btn-primary-inset-shadow);
+  border-color: #1b1f2426;
 }
