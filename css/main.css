@@ -1,7 +1,8 @@
-gitbutton {
+.gitbutton {
   color: #ffffff;
   background-color: #2da44e;
   border-color: #1b1f2426;
+  border: solid 100px;
 }
 
 body {
